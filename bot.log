@@ -1,0 +1,595 @@
+2024-02-14 13:38:35,749:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2024-02-14 13:38:35,750:INFO:discord.client: logging in using static token
+2024-02-14 13:38:35,751:WARNING:discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+2024-02-14 13:38:36,454:INFO:discord: Logado como tmz#7279
+2024-02-14 13:38:36,785:INFO:discord: Sincronizado 0 commando
+2024-02-14 13:38:36,786:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 13:38:36,786:INFO:discord: Versão python: 3.9.13
+2024-02-14 13:38:36,786:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 13:38:37,264:INFO:discord.gateway: Shard ID None has connected to Gateway (Session ID: 11b7406880e8105f9efb4a825e0085e7).
+2024-02-14 13:41:08,918:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2024-02-14 13:41:08,919:INFO:discord.client: logging in using static token
+2024-02-14 13:41:08,919:WARNING:discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+2024-02-14 13:41:09,597:INFO:discord: Logado como tmz#7279
+2024-02-14 13:41:09,904:INFO:discord: Sincronizado 0 commando
+2024-02-14 13:41:09,904:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 13:41:09,904:INFO:discord: Versão python: 3.9.13
+2024-02-14 13:41:09,905:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 13:41:10,393:INFO:discord.gateway: Shard ID None has connected to Gateway (Session ID: 0b7e7275275e23b8d769511e46f7e31a).
+2024-02-14 13:41:25,295:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2024-02-14 13:44:19,342:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2024-02-14 13:45:23,032:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2024-02-14 13:45:49,222:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2024-02-14 13:45:49,223:INFO:discord.client: logging in using static token
+2024-02-14 13:45:49,223:WARNING:discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+2024-02-14 13:45:49,954:INFO:discord: Logado como tmz#7279
+2024-02-14 13:45:50,379:INFO:discord: Sincronizado 1 commando
+2024-02-14 13:45:50,379:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 13:45:50,379:INFO:discord: Versão python: 3.9.13
+2024-02-14 13:45:50,379:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 13:45:50,850:INFO:discord.gateway: Shard ID None has connected to Gateway (Session ID: d6737f252fcd1a58bb69bcb2f7a7690c).
+2024-02-14 13:47:16,058:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2024-02-14 13:47:43,344:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2024-02-14 13:47:43,345:INFO:discord.client: logging in using static token
+2024-02-14 13:47:43,346:WARNING:discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+2024-02-14 13:47:43,984:INFO:discord: Logado como tmz#7279
+2024-02-14 13:47:44,368:INFO:discord: Sincronizado 1 comando
+2024-02-14 13:47:44,369:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 13:47:44,369:INFO:discord: Versão python: 3.9.13
+2024-02-14 13:47:44,369:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 13:47:44,841:INFO:discord.gateway: Shard ID None has connected to Gateway (Session ID: 74185f5362f40816f63bc881a51afbf4).
+2024-02-14 13:47:47,490:INFO:discord: Comando: /anunciar a by shauuu_
+2024-02-14 13:48:01,098:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2024-02-14 13:48:01,100:INFO:discord.client: logging in using static token
+2024-02-14 13:48:01,100:WARNING:discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+2024-02-14 13:48:01,690:INFO:discord: Logado como tmz#7279
+2024-02-14 13:48:44,373:INFO:discord: Sincronizado 1 comando
+2024-02-14 13:48:44,373:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 13:48:44,373:INFO:discord: Versão python: 3.9.13
+2024-02-14 13:48:44,373:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 13:48:44,890:INFO:discord.gateway: Shard ID None has connected to Gateway (Session ID: c90ecb7713b4b86b467febe1df1d06a2).
+2024-02-14 13:49:49,907:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2024-02-14 13:49:49,908:INFO:discord.client: logging in using static token
+2024-02-14 13:49:49,908:WARNING:discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+2024-02-14 13:49:50,545:INFO:discord: Logado como tmz#7279
+2024-02-14 13:49:50,865:INFO:discord: Sincronizado 1 comando
+2024-02-14 13:49:50,865:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 13:49:50,865:INFO:discord: Versão python: 3.9.13
+2024-02-14 13:49:50,865:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 13:49:51,381:INFO:discord.gateway: Shard ID None has connected to Gateway (Session ID: 373b0fc1ba8660e85aba039e83238836).
+2024-02-14 13:49:53,607:INFO:discord: Comando: /anunciar a by shauuu_
+2024-02-14 13:49:53,608:ERROR:discord.app_commands.tree: Ignoring exception in command 'anunciar'
+Traceback (most recent call last):
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\app_commands\commands.py", line 828, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+  File "D:\PyCharmProjects\NozemBR commission\main.py", line 58, in anunciar
+    raise ValueError("test")
+ValueError: test
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\app_commands\tree.py", line 1248, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\app_commands\commands.py", line 853, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\app_commands\commands.py", line 846, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'anunciar' raised an exception: ValueError: test
+2024-02-14 13:57:58,737:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2024-02-14 13:58:08,744:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2024-02-14 13:58:08,745:INFO:discord.client: logging in using static token
+2024-02-14 13:58:08,746:WARNING:discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+2024-02-14 13:58:09,404:INFO:discord: Logado como tmz#7279
+2024-02-14 13:58:09,938:INFO:discord: Sincronizado 0 comando
+2024-02-14 13:58:09,938:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 13:58:09,938:INFO:discord: Versão python: 3.9.13
+2024-02-14 13:58:09,939:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 13:58:10,491:INFO:discord.gateway: Shard ID None has connected to Gateway (Session ID: ed391c1e70b078410962893a637ae86e).
+2024-02-14 13:59:02,454:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2024-02-14 13:59:02,455:INFO:discord.client: logging in using static token
+2024-02-14 13:59:02,455:WARNING:discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+2024-02-14 13:59:03,081:INFO:discord: Logado como tmz#7279
+2024-02-14 13:59:03,405:INFO:discord: Sincronizado 0 comando
+2024-02-14 13:59:03,405:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 13:59:03,405:INFO:discord: Versão python: 3.9.13
+2024-02-14 13:59:03,406:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 13:59:03,928:INFO:discord.gateway: Shard ID None has connected to Gateway (Session ID: 94139341f739d27dccde89aabb77c634).
+2024-02-14 13:59:12,717:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2024-02-14 13:59:12,718:INFO:discord.client: logging in using static token
+2024-02-14 13:59:12,718:WARNING:discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+2024-02-14 13:59:13,279:INFO:discord: Logado como tmz#7279
+2024-02-14 13:59:36,229:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2024-02-14 13:59:36,230:INFO:discord.client: logging in using static token
+2024-02-14 13:59:36,230:WARNING:discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+2024-02-14 13:59:36,787:INFO:discord: Logado como tmz#7279
+2024-02-14 13:59:36,789:ERROR:discord: Falha ao carregar extensão commands
+ExtensionNotFound: Extension 'commands' could not be loaded.
+2024-02-14 14:00:24,578:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2024-02-14 14:00:24,579:INFO:discord.client: logging in using static token
+2024-02-14 14:00:24,579:WARNING:discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+2024-02-14 14:00:25,284:INFO:discord: Logado como tmz#7279
+2024-02-14 14:00:25,285:ERROR:discord: Falha ao carregar extensão commands
+ExtensionNotFound: Extension 'commands' could not be loaded.
+2024-02-14 14:01:03,335:INFO:discord: Sincronizado 0 comando
+2024-02-14 14:01:03,335:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 14:01:03,335:INFO:discord: Versão python: 3.9.13
+2024-02-14 14:01:03,336:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 14:01:03,940:INFO:discord.gateway: Shard ID None has connected to Gateway (Session ID: 6056d745f956ee58616291294b388fe3).
+2024-02-14 14:01:38,271:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2024-02-14 14:01:38,272:INFO:discord.client: logging in using static token
+2024-02-14 14:01:38,273:WARNING:discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+2024-02-14 14:01:38,926:INFO:discord: Logado como tmz#7279
+2024-02-14 14:01:38,927:ERROR:discord: Falha ao carregar extensão commands
+ExtensionNotFound: Extension 'commands' could not be loaded.
+2024-02-14 14:01:39,180:INFO:discord: Sincronizado 0 comando
+2024-02-14 14:01:39,180:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 14:01:39,180:INFO:discord: Versão python: 3.9.13
+2024-02-14 14:01:39,180:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 14:01:39,656:INFO:discord.gateway: Shard ID None has connected to Gateway (Session ID: c4d651b106905bc86885850f337171e5).
+2024-02-14 14:02:07,436:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2024-02-14 14:02:07,437:INFO:discord.client: logging in using static token
+2024-02-14 14:02:07,437:WARNING:discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+2024-02-14 14:02:08,168:INFO:discord: Logado como tmz#7279
+2024-02-14 14:02:08,170:ERROR:discord: Falha ao carregar extensão commands
+ExtensionNotFound: Extension 'commands' could not be loaded.
+2024-02-14 14:02:39,615:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2024-02-14 14:02:39,617:INFO:discord.client: logging in using static token
+2024-02-14 14:02:39,617:WARNING:discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+2024-02-14 14:02:40,196:INFO:discord: Logado como tmz#7279
+2024-02-14 14:02:40,199:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 14:02:40,646:INFO:discord: Sincronizado 1 comando
+2024-02-14 14:02:40,646:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 14:02:40,646:INFO:discord: Versão python: 3.9.13
+2024-02-14 14:02:40,646:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 14:02:41,296:INFO:discord.gateway: Shard ID None has connected to Gateway (Session ID: fe530786421f333f9b6b563022e5b022).
+2024-02-14 14:02:48,395:ERROR:discord: Command 'anunciar' raised an exception: AttributeError: 'Commands' object has no attribute 'logger'
+2024-02-14 14:03:12,089:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2024-02-14 14:03:12,091:INFO:discord.client: logging in using static token
+2024-02-14 14:03:12,091:WARNING:discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+2024-02-14 14:03:12,787:INFO:discord: Logado como tmz#7279
+2024-02-14 14:03:12,795:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 14:03:13,250:INFO:discord: Sincronizado 1 comando
+2024-02-14 14:03:13,250:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 14:03:13,250:INFO:discord: Versão python: 3.9.13
+2024-02-14 14:03:13,250:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 14:03:13,717:INFO:discord.gateway: Shard ID None has connected to Gateway (Session ID: 5e5ae860dd0863599aac0d7ac5f51438).
+2024-02-14 14:03:20,391:ERROR:discord: Command 'anunciar' raised an exception: AttributeError: 'Commands' object has no attribute 'logger'
+2024-02-14 14:03:41,847:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2024-02-14 14:03:41,849:INFO:discord.client: logging in using static token
+2024-02-14 14:03:41,849:WARNING:discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+2024-02-14 14:03:42,396:INFO:discord: Logado como tmz#7279
+2024-02-14 14:03:42,405:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 14:04:01,466:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2024-02-14 14:04:01,467:INFO:discord.client: logging in using static token
+2024-02-14 14:04:01,467:WARNING:discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+2024-02-14 14:04:02,164:INFO:discord: Logado como tmz#7279
+2024-02-14 14:04:02,172:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 14:04:43,204:INFO:discord: Sincronizado 1 comando
+2024-02-14 14:04:43,204:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 14:04:43,204:INFO:discord: Versão python: 3.9.13
+2024-02-14 14:04:43,204:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 14:04:43,703:INFO:discord.gateway: Shard ID None has connected to Gateway (Session ID: 1f61fb5b74ae35092cff983394a60c40).
+2024-02-14 14:04:44,038:INFO:discord: Comando: /anunciar test by shauuu_
+2024-02-14 14:06:39,492:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2024-02-14 14:06:39,493:WARNING:discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+2024-02-14 14:06:39,494:INFO:discord.client: logging in using static token
+2024-02-14 14:06:40,061:INFO:discord: Logado como tmz#7279
+2024-02-14 14:06:40,068:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 14:06:40,438:INFO:discord: Sincronizado 1 comando
+2024-02-14 14:06:40,438:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 14:06:40,438:INFO:discord: Versão python: 3.9.13
+2024-02-14 14:06:40,438:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 14:06:40,929:INFO:discord.gateway: Shard ID None has connected to Gateway (Session ID: c54fe34168002ece77ae24f45a301a42).
+2024-02-14 14:06:57,346:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2024-02-14 14:08:00,615:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2024-02-14 14:08:00,616:WARNING:discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+2024-02-14 14:08:01,227:INFO:discord: Logado como tmz#7279
+2024-02-14 14:08:01,230:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 14:08:01,545:INFO:discord: Sincronizado 1 comando
+2024-02-14 14:08:01,546:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 14:08:01,546:INFO:discord: Versão python: 3.9.13
+2024-02-14 14:08:01,546:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 14:08:58,587:WARNING:discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+2024-02-14 14:08:59,301:INFO:discord: Logado como tmz#7279
+2024-02-14 14:08:59,303:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 14:08:59,832:INFO:discord: Sincronizado 1 comando
+2024-02-14 14:08:59,833:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 14:08:59,833:INFO:discord: Versão python: 3.9.13
+2024-02-14 14:08:59,833:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 14:09:32,997:INFO:discord: Logado como tmz#7279
+2024-02-14 14:09:33,000:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 14:09:33,321:INFO:discord: Sincronizado 1 comando
+2024-02-14 14:09:33,321:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 14:09:33,321:INFO:discord: Versão python: 3.9.13
+2024-02-14 14:09:33,321:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 14:10:40,010:INFO:discord: Logado como tmz#7279
+2024-02-14 14:10:40,013:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 14:10:40,490:INFO:discord: Sincronizado 1 comando
+2024-02-14 14:10:40,490:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 14:10:40,490:INFO:discord: Versão python: 3.9.13
+2024-02-14 14:10:40,490:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 14:11:04,560:INFO:discord: Comando: /anunciar testing by shauuu_
+2024-02-14 14:11:12,849:INFO:discord: Comando: /anunciar # testing by shauuu_
+2024-02-14 14:11:37,171:INFO:discord: Comando: /anunciar # testing\n test by shauuu_
+2024-02-14 14:12:13,767:INFO:discord: Logado como tmz#7279
+2024-02-14 14:12:13,775:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 14:12:14,131:INFO:discord: Sincronizado 1 comando
+2024-02-14 14:12:14,132:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 14:12:14,132:INFO:discord: Versão python: 3.9.13
+2024-02-14 14:12:14,132:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 14:12:24,456:INFO:discord: Comando: /anunciar # testing\n test by shauuu_
+2024-02-14 14:14:39,587:INFO:discord: Comando: /anunciar sdadsaui by shauuu_
+2024-02-14 14:16:38,297:INFO:discord: Comando: /anunciar sdadas \ dsadas \ asdas by shauuu_
+2024-02-14 14:17:04,859:INFO:discord: Comando: /anunciar sdadas \ dsadas \ asdas by shauuu_
+2024-02-14 14:19:40,540:INFO:discord: Logado como tmz#7279
+2024-02-14 14:19:40,549:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 14:19:50,364:INFO:discord: Logado como tmz#7279
+2024-02-14 14:19:50,372:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 14:19:50,824:INFO:discord: Sincronizado 1 comando
+2024-02-14 14:19:50,824:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 14:19:50,824:INFO:discord: Versão python: 3.9.13
+2024-02-14 14:19:50,824:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 14:20:35,335:INFO:discord: Logado como tmz#7279
+2024-02-14 14:20:35,338:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 14:20:35,877:INFO:discord: Sincronizado 0 comando
+2024-02-14 14:20:35,877:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 14:20:35,877:INFO:discord: Versão python: 3.9.13
+2024-02-14 14:20:35,877:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 14:21:23,626:INFO:discord: Logado como tmz#7279
+2024-02-14 14:21:23,637:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 14:21:23,933:INFO:discord: Sincronizado 0 comando
+2024-02-14 14:21:23,933:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 14:21:23,933:INFO:discord: Versão python: 3.9.13
+2024-02-14 14:21:23,933:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 14:21:56,953:ERROR:discord.ext.commands.bot: Ignoring exception in command anunciar
+Traceback (most recent call last):
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "D:\PyCharmProjects\NozemBR commission\cogs\commands.py", line 16, in anunciar
+    self.bot.logger.info(f"Comando: /anunciar {mensagem} by {ctx.user.name}")
+AttributeError: 'Context' object has no attribute 'user'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\ext\commands\bot.py", line 1350, in invoke
+    await ctx.command.invoke(ctx)
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\ext\commands\core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'Context' object has no attribute 'user'
+2024-02-14 14:22:43,115:INFO:discord: Logado como tmz#7279
+2024-02-14 14:22:43,124:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 14:22:43,484:INFO:discord: Sincronizado 0 comando
+2024-02-14 14:22:43,484:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 14:22:43,484:INFO:discord: Versão python: 3.9.13
+2024-02-14 14:22:43,484:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 14:23:19,790:INFO:discord: Logado como tmz#7279
+2024-02-14 14:23:19,799:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 14:23:20,032:INFO:discord: Sincronizado 0 comando
+2024-02-14 14:23:20,032:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 14:23:20,032:INFO:discord: Versão python: 3.9.13
+2024-02-14 14:23:20,033:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 14:23:23,816:INFO:discord: Comando: /anunciar testing by shauuu_
+2024-02-14 14:24:16,154:INFO:discord: Comando: /anunciar testing by shauuu_
+2024-02-14 14:24:32,803:INFO:discord: Logado como tmz#7279
+2024-02-14 14:24:32,812:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 14:24:33,119:INFO:discord: Sincronizado 0 comando
+2024-02-14 14:24:33,119:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 14:24:33,119:INFO:discord: Versão python: 3.9.13
+2024-02-14 14:24:33,119:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 14:24:48,030:INFO:discord: Comando: /anunciar tetsnujiuina
+
+dsnjiajidas by shauuu_
+2024-02-14 14:25:08,563:INFO:discord: Comando: /anunciar # TESTING
+hahah
+
+**TESTING 2** by shauuu_
+2024-02-14 14:25:21,976:INFO:discord: Comando: /anunciar # TESTING by shauuu_
+2024-02-14 14:29:41,362:INFO:discord: Logado como tmz#7279
+2024-02-14 14:29:41,371:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 14:29:41,793:INFO:discord: Sincronizado 0 comando
+2024-02-14 14:29:41,793:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 14:29:41,793:INFO:discord: Versão python: 3.9.13
+2024-02-14 14:29:41,794:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 14:29:53,062:INFO:discord: Comando: /anunciar # TESTING by shauuu_
+2024-02-14 14:29:53,063:ERROR:discord.ext.commands.bot: Ignoring exception in command anunciar
+Traceback (most recent call last):
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "D:\PyCharmProjects\NozemBR commission\cogs\commands.py", line 21, in anunciar
+    await guild.chunk()
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\guild.py", line 4058, in chunk
+    raise ClientException('Intents.members must be enabled to use this.')
+discord.errors.ClientException: Intents.members must be enabled to use this.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\ext\commands\bot.py", line 1350, in invoke
+    await ctx.command.invoke(ctx)
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\ext\commands\core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ClientException: Intents.members must be enabled to use this.
+2024-02-14 14:30:18,476:INFO:discord: Logado como tmz#7279
+2024-02-14 14:30:18,484:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 14:30:18,718:INFO:discord: Sincronizado 0 comando
+2024-02-14 14:30:18,718:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 14:30:18,718:INFO:discord: Versão python: 3.9.13
+2024-02-14 14:30:18,718:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 14:30:27,597:INFO:discord: Comando: /anunciar # TESTING by shauuu_
+2024-02-14 14:30:27,757:ERROR:discord.ext.commands.bot: Ignoring exception in command anunciar
+Traceback (most recent call last):
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "D:\PyCharmProjects\NozemBR commission\cogs\commands.py", line 27, in anunciar
+    await member.send(embed=message)
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\abc.py", line 1515, in send
+    channel = await self._get_channel()
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\member.py", line 435, in _get_channel
+    ch = await self.create_dm()
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\member.py", line 236, in general
+    return await getattr(self._user, x)(*args, **kwargs)
+AttributeError: 'ClientUser' object has no attribute 'create_dm'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\ext\commands\bot.py", line 1350, in invoke
+    await ctx.command.invoke(ctx)
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\ext\commands\core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'ClientUser' object has no attribute 'create_dm'
+2024-02-14 14:31:16,638:INFO:discord: Logado como tmz#7279
+2024-02-14 14:31:16,642:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 14:31:16,867:INFO:discord: Sincronizado 0 comando
+2024-02-14 14:31:16,867:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 14:31:16,867:INFO:discord: Versão python: 3.9.13
+2024-02-14 14:31:16,867:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 14:31:24,852:INFO:discord: Comando: /anunciar # TESTING by shauuu_
+2024-02-14 14:31:25,014:ERROR:discord.ext.commands.bot: Ignoring exception in command anunciar
+Traceback (most recent call last):
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "D:\PyCharmProjects\NozemBR commission\cogs\commands.py", line 28, in anunciar
+    await member.send(embed=message)
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\abc.py", line 1515, in send
+    channel = await self._get_channel()
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\member.py", line 435, in _get_channel
+    ch = await self.create_dm()
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\member.py", line 236, in general
+    return await getattr(self._user, x)(*args, **kwargs)
+AttributeError: 'ClientUser' object has no attribute 'create_dm'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\ext\commands\bot.py", line 1350, in invoke
+    await ctx.command.invoke(ctx)
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\ext\commands\core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'ClientUser' object has no attribute 'create_dm'
+2024-02-14 14:32:45,274:INFO:discord: Logado como tmz#7279
+2024-02-14 14:32:45,283:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 14:32:45,585:INFO:discord: Sincronizado 0 comando
+2024-02-14 14:32:45,585:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 14:32:45,585:INFO:discord: Versão python: 3.9.13
+2024-02-14 14:32:45,585:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 14:32:51,476:INFO:discord: Comando: /anunciar # TESTING by shauuu_
+2024-02-14 14:32:51,847:ERROR:discord.ext.commands.bot: Ignoring exception in command anunciar
+Traceback (most recent call last):
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "D:\PyCharmProjects\NozemBR commission\cogs\commands.py", line 28, in anunciar
+    await member.send(embed=message)
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\abc.py", line 1515, in send
+    channel = await self._get_channel()
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\member.py", line 435, in _get_channel
+    ch = await self.create_dm()
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\member.py", line 236, in general
+    return await getattr(self._user, x)(*args, **kwargs)
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\user.py", line 530, in create_dm
+    data: DMChannelPayload = await state.http.start_private_message(self.id)
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\http.py", line 745, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50007): Cannot send messages to this user
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\ext\commands\bot.py", line 1350, in invoke
+    await ctx.command.invoke(ctx)
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\ext\commands\core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: HTTPException: 400 Bad Request (error code: 50007): Cannot send messages to this user
+2024-02-14 14:33:28,710:INFO:discord: Logado como tmz#7279
+2024-02-14 14:33:28,718:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 14:33:28,985:INFO:discord: Sincronizado 0 comando
+2024-02-14 14:33:28,985:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 14:33:28,985:INFO:discord: Versão python: 3.9.13
+2024-02-14 14:33:28,986:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 14:33:35,049:INFO:discord: Comando: /anunciar # TESTING by shauuu_
+2024-02-14 14:33:56,921:INFO:discord: Logado como tmz#7279
+2024-02-14 14:33:56,931:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 14:34:28,984:INFO:discord: Sincronizado 0 comando
+2024-02-14 14:34:28,984:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 14:34:28,984:INFO:discord: Versão python: 3.9.13
+2024-02-14 14:34:28,984:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 14:34:33,189:INFO:discord: Comando: /anunciar # TESTING by shauuu_
+2024-02-14 14:34:33,612:ERROR:discord.ext.commands.bot: Ignoring exception in command anunciar
+Traceback (most recent call last):
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "D:\PyCharmProjects\NozemBR commission\cogs\commands.py", line 28, in anunciar
+    await member.send(embed=message)
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\abc.py", line 1515, in send
+    channel = await self._get_channel()
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\member.py", line 435, in _get_channel
+    ch = await self.create_dm()
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\member.py", line 236, in general
+    return await getattr(self._user, x)(*args, **kwargs)
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\user.py", line 530, in create_dm
+    data: DMChannelPayload = await state.http.start_private_message(self.id)
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\http.py", line 745, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50007): Cannot send messages to this user
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\ext\commands\bot.py", line 1350, in invoke
+    await ctx.command.invoke(ctx)
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\ext\commands\core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: HTTPException: 400 Bad Request (error code: 50007): Cannot send messages to this user
+2024-02-14 14:35:08,886:INFO:discord: Logado como tmz#7279
+2024-02-14 14:35:08,895:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 14:35:09,144:INFO:discord: Sincronizado 0 comando
+2024-02-14 14:35:09,144:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 14:35:09,144:INFO:discord: Versão python: 3.9.13
+2024-02-14 14:35:09,144:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 14:35:14,427:INFO:discord: Comando: /anunciar # TESTING by shauuu_
+2024-02-14 14:35:16,483:ERROR:discord.ext.commands.bot: Ignoring exception in command anunciar
+Traceback (most recent call last):
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "D:\PyCharmProjects\NozemBR commission\cogs\commands.py", line 28, in anunciar
+    await member.send(embed=message)
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\abc.py", line 1515, in send
+    channel = await self._get_channel()
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\member.py", line 435, in _get_channel
+    ch = await self.create_dm()
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\member.py", line 236, in general
+    return await getattr(self._user, x)(*args, **kwargs)
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\user.py", line 530, in create_dm
+    data: DMChannelPayload = await state.http.start_private_message(self.id)
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\http.py", line 745, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50007): Cannot send messages to this user
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\ext\commands\bot.py", line 1350, in invoke
+    await ctx.command.invoke(ctx)
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\ext\commands\core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: HTTPException: 400 Bad Request (error code: 50007): Cannot send messages to this user
+2024-02-14 14:36:54,667:INFO:discord: Logado como tmz#7279
+2024-02-14 14:36:54,678:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 14:36:54,907:INFO:discord: Sincronizado 0 comando
+2024-02-14 14:36:54,908:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 14:36:54,908:INFO:discord: Versão python: 3.9.13
+2024-02-14 14:36:54,908:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 14:37:02,080:INFO:discord: Comando: /anunciar # TESTING by shauuu_
+2024-02-14 14:37:30,385:INFO:discord: Logado como tmz#7279
+2024-02-14 14:37:30,393:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 14:37:30,678:INFO:discord: Sincronizado 0 comando
+2024-02-14 14:37:30,678:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 14:37:30,679:INFO:discord: Versão python: 3.9.13
+2024-02-14 14:37:30,679:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 14:37:36,704:INFO:discord: Comando: /anunciar # TESTING by shauuu_
+2024-02-14 14:39:55,529:INFO:discord: Logado como tmz#7279
+2024-02-14 14:39:55,538:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 14:39:55,865:INFO:discord: Sincronizado 0 comando
+2024-02-14 14:39:55,865:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 14:39:55,865:INFO:discord: Versão python: 3.9.13
+2024-02-14 14:39:55,865:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 14:40:02,579:INFO:discord: Comando: /anunciar testing by shauuu_
+2024-02-14 15:10:25,386:INFO:discord: Logado como tmz#7279
+2024-02-14 15:10:25,394:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 15:10:25,729:INFO:discord: Sincronizado 0 comando
+2024-02-14 15:10:25,729:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 15:10:25,729:INFO:discord: Versão python: 3.9.13
+2024-02-14 15:10:25,729:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 15:10:32,858:INFO:discord: Logado como tmz#7279
+2024-02-14 15:10:32,867:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 15:11:04,298:INFO:discord: Logado como tmz#7279
+2024-02-14 15:11:04,307:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 15:11:32,910:INFO:discord: Logado como tmz#7279
+2024-02-14 15:11:32,912:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 15:11:45,627:INFO:discord: Logado como tmz#7279
+2024-02-14 15:11:45,629:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 15:11:45,630:INFO:discord: Sincronizado 0 comando
+2024-02-14 15:11:45,630:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 15:11:45,630:INFO:discord: Versão python: 3.9.13
+2024-02-14 15:11:45,630:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 15:11:48,790:INFO:discord: Comando: /anunciar # AAA by shauuu_
+2024-02-14 15:14:31,178:ERROR:discord.ext.commands.bot: Ignoring exception in command anunciar
+Traceback (most recent call last):
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "D:\PyCharmProjects\NozemBR commission\cogs\commands.py", line 26, in anunciar
+    await ctx.author.send(embed=message)
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\abc.py", line 1561, in send
+    data = await state.http.send_message(channel.id, params=params)
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\http.py", line 743, in request
+    raise DiscordServerError(response, data)
+discord.errors.DiscordServerError: 503 Service Unavailable (error code: 0): 503: Service Unavailable
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\ext\commands\bot.py", line 1350, in invoke
+    await ctx.command.invoke(ctx)
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+  File "D:\PyCharmProjects\NozemBR commission\.venv\lib\site-packages\discord\ext\commands\core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: DiscordServerError: 503 Service Unavailable (error code: 0): 503: Service Unavailable
+2024-02-14 15:30:37,725:INFO:discord: Logado como tmz#7279
+2024-02-14 15:30:37,729:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 15:30:37,729:INFO:discord: Sincronizado 0 comando
+2024-02-14 15:30:37,729:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 15:30:37,729:INFO:discord: Versão python: 3.9.13
+2024-02-14 15:30:37,729:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 15:31:09,975:INFO:discord: Comando: /anunciar # AAAA by shauuu_
+2024-02-14 15:48:02,231:INFO:discord: Logado como tmz#7279
+2024-02-14 15:48:02,239:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 15:48:02,240:INFO:discord: Sincronizado 0 comando
+2024-02-14 15:48:02,240:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 15:48:02,240:INFO:discord: Versão python: 3.9.13
+2024-02-14 15:48:02,240:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 15:48:19,403:INFO:discord: Comando: /anunciar # AAAA by shauuu_
+2024-02-14 15:53:39,572:INFO:discord: Logado como tmz#7279
+2024-02-14 15:53:39,581:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 15:53:39,581:INFO:discord: Sincronizado 0 comando
+2024-02-14 15:53:39,581:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 15:53:39,581:INFO:discord: Versão python: 3.9.13
+2024-02-14 15:53:39,581:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 15:53:49,915:INFO:discord: Comando: /anunciar # AAAA by shauuu_
+2024-02-14 15:57:00,500:INFO:discord: Logado como tmz#7279
+2024-02-14 15:57:00,509:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 15:57:00,509:INFO:discord: Sincronizado 0 comando
+2024-02-14 15:57:00,509:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 15:57:00,509:INFO:discord: Versão python: 3.9.13
+2024-02-14 15:57:00,509:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 15:57:11,151:INFO:discord: Comando: /anunciar # AAA by shauuu_
+2024-02-14 15:57:33,425:INFO:discord: Logado como tmz#7279
+2024-02-14 15:57:33,434:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 15:57:33,434:INFO:discord: Sincronizado 0 comando
+2024-02-14 15:57:33,434:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 15:57:33,434:INFO:discord: Versão python: 3.9.13
+2024-02-14 15:57:33,434:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 15:57:38,460:INFO:discord: Comando: /anunciar # AAA by shauuu_
+2024-02-14 15:57:55,683:INFO:discord: Logado como tmz#7279
+2024-02-14 15:57:55,692:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 15:57:55,692:INFO:discord: Sincronizado 0 comando
+2024-02-14 15:57:55,692:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 15:57:55,692:INFO:discord: Versão python: 3.9.13
+2024-02-14 15:57:55,692:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 15:57:58,758:INFO:discord: Comando: /anunciar # AAA by shauuu_
