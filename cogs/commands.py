@@ -14,6 +14,7 @@ class Commands(commands.Cog):
         self.bot = bot
 
     @commands.command()
+    @commands.has_permissions(manage_guild=True)
     async def anunciar(self, ctx: commands.Context, *, mensagem: str) -> None:
         self.bot.logger.info(f"Comando: /anunciar {mensagem} by {ctx.author.name}")
 
@@ -32,34 +33,6 @@ class Commands(commands.Cog):
             embed=Embed(color=discord.Color.blue(), description=f"Enviando anúncio para {members_online} usuários"))
 
         counter = 0
-
-        """
-        for i in range(400):
-            if i != 0:
-                if i % 20 == 0:
-                    for j in range(120, -1, -10):
-                        embed = Embed(color=discord.Color.blue(),
-                                      description=f"Anúncio enviado para {counter} usuários")
-                        embed.set_footer(
-                            text=f"Essa mensagem é atualizada durante a execução do comando\n\n Aguardando {j} segundos para continuar a execução")
-                        await response_message.edit(embed=embed)
-                        await asyncio.sleep(10)
-
-                    embed = Embed(color=discord.Color.blue(),
-                                  description=f"Anúncio enviado para {counter} usuários")
-                    embed.set_footer(
-                        text=f"Essa mensagem é atualizada durante a execução do comando")
-                    await response_message.edit(embed=embed)
-
-                elif i % 10 == 0:
-                    embed = Embed(color=discord.Color.blue(), description=f"Anúncio enviado para {counter} usuários")
-                    embed.set_footer(text="Essa mensagem é atualizada durante a execução do comando")
-                    await response_message.edit(embed=embed)
-
-            await ctx.author.send(embed=message)
-            counter += 1
-
-        """
         i = 0
 
         for member in guild.members:

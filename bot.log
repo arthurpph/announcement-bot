@@ -593,3 +593,11 @@ discord.ext.commands.errors.CommandInvokeError: Command raised an exception: Dis
 2024-02-14 15:57:55,692:INFO:discord: Versão python: 3.9.13
 2024-02-14 15:57:55,692:INFO:discord: Rodando em: Windows 10 (nt)
 2024-02-14 15:57:58,758:INFO:discord: Comando: /anunciar # AAA by shauuu_
+2024-02-14 16:08:41,817:INFO:discord: Logado como tmz#7279
+2024-02-14 16:08:41,827:INFO:discord: Extensão commands.py carregada com sucesso
+2024-02-14 16:08:41,828:INFO:discord: Sincronizado 0 comando
+2024-02-14 16:08:41,828:INFO:discord: Versão discord.py: 2.3.2
+2024-02-14 16:08:41,828:INFO:discord: Versão python: 3.9.13
+2024-02-14 16:08:41,828:INFO:discord: Rodando em: Windows 10 (nt)
+2024-02-14 16:09:12,765:ERROR:discord: You are missing Manage Server permission(s) to run this command.
+2024-02-14 16:10:16,368:INFO:discord: Comando: /anunciar test by artupptt
