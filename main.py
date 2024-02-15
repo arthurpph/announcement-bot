@@ -1,5 +1,8 @@
 """
 :author: Shau
+:date: 2024-02-15
+
+https://github.com/arthurpph
 """
 
 import asyncio
