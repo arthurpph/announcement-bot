@@ -16,7 +16,7 @@ class Commands(commands.Cog):
     @commands.command()
     @commands.has_permissions(manage_guild=True)
     async def anunciar(self, ctx: commands.Context, *, mensagem: str) -> None:
-        self.bot.logger.info(f"Comando: /anunciar {mensagem} by {ctx.author.name}")
+        self.bot.logger.info(f"Comando: /anunciar {mensagem} por {ctx.author.name}")
 
         message = Embed(color=discord.Color.blue(), description=mensagem)
 
@@ -63,7 +63,8 @@ class Commands(commands.Cog):
                 except Exception:
                     pass
 
-            i += 1
+                i += 1
+            
 
         await response_message.edit(embed=Embed(color=discord.Color.blue(),
                                                 title=f"O anúncio foi enviado com sucesso para todos os {counter} usuário{'s' if counter > 1 or counter == 0 else ''}"))
