@@ -35,7 +35,7 @@ class Bot(commands.Bot):
         super().__init__(command_prefix="/", intents=intents, help_command=None)
 
         self.logger = logger.get_logger()
-        self.color = discord.Color.from_rgb(30, 30, 30)
+        self.color = discord.Color.blue()
 
     async def load_cogs(self) -> None:
         cogs = ["commands.py"]

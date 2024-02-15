@@ -21,11 +21,14 @@ class Commands(commands.Cog):
     async def anunciar(self, ctx: commands.Context, *, mensagem: str) -> None:
         self.bot.logger.info(f"Comando: /anunciar {mensagem} por {ctx.author.name}")
 
-        message = Embed(color=self.bot.color)
+        message = Embed(color=self.bot.color, description=mensagem)
+        """
         cut_message = mensagem.split("\n")
 
         for line in cut_message:
             message.add_field(name=line, value="\u200b", inline=False)
+            
+            """
 
         class Buttons(View):
             def __init__(self, bot):
@@ -107,8 +110,8 @@ class Commands(commands.Cog):
                             elif i % 10 == 0:
                                 await response_message.edit(embed=embed)
 
-                        if member != ctx.author and member != self.bot.user and (
-                                member.status == Status.online or member.status == Status.idle or member.status == Status.dnd or member.status == Status.do_not_disturb):
+                        if member == ctx.author or (member != self.bot.user and (
+                                member.status == Status.online or member.status == Status.idle or member.status == Status.dnd or member.status == Status.do_not_disturb)):
                             try:
                                 await member.send(embed=message)
                                 counter += 1
@@ -119,29 +122,30 @@ class Commands(commands.Cog):
 
                     await response_message.edit(embed=Embed(color=self.bot.color,
                                                             title=f"O anúncio foi enviado com sucesso para {counter} usuário{'s' if counter > 1 or counter == 0 else ''}")
-                                                .set_footer(
-                                                    text=f"Alguns usuários podem não receber o anúncio por estarem com a DM desativada"),
-                                                    view=None)
+                    .set_footer(
+                        text=f"Alguns usuários podem não receber o anúncio por estarem com a DM desativada"),
+                        view=None)
 
                 except Break:
                     await response_message.edit(embed=Embed(color=self.bot.color,
                                                             title=f"O anúncio foi enviado com sucesso para {counter} usuário{'s' if counter > 1 or counter == 0 else ''}")
-                                                .set_footer(
-                                                    text=f"Alguns usuários podem não receber o anúncio por estarem com a DM desativada\n\nExecução cancelada pelo usuário"),
-                                                    view=None)
+                    .set_footer(
+                        text=f"Alguns usuários podem não receber o anúncio por estarem com a DM desativada\n\nExecução cancelada pelo usuário"),
+                        view=None)
 
             async def disable_buttons(self, interaction: Interaction):
                 self.negar_button.disabled = True
                 self.confirmar_button.disabled = True
                 await interaction.response.edit_message(view=self)
 
-        members_online = sum(1 for member in ctx.guild.members if
-                             (
-                                     member.status == Status.online or member.status == Status.idle or member.status == Status.dnd or member.status == Status.do_not_disturb)
-                             and member != ctx.author and member != self.bot.user)
+        members_online = sum(1 for member in ctx.guild.members if member == ctx.author or
+                             ((
+                                      member.status == Status.online or member.status == Status.idle or member.status == Status.dnd or member.status == Status.do_not_disturb)
+                              and member != self.bot.user))
 
-        await ctx.send(f"Você tem certeza que deseja enviar o seguinte anúncio para {members_online} usuários?",
-                       embed=message, view=Buttons(self.bot))
+        await ctx.send(
+            f"Você tem certeza que deseja enviar o seguinte anúncio para {members_online} usuário{'s' if members_online > 1 or members_online == 0 else ''}?",
+            embed=message, view=Buttons(self.bot))
 
     async def cog_command_error(self, ctx: commands.Context, error: Exception) -> None:
         self.bot.logger.error(error)
