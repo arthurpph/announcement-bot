@@ -32,6 +32,7 @@ class Bot(commands.Bot):
         super().__init__(command_prefix="/", intents=intents, help_command=None)
 
         self.logger = logger.get_logger()
+        self.color = discord.Color.from_rgb(30, 30, 30)
 
     async def load_cogs(self) -> None:
         cogs = ["commands.py"]
@@ -59,7 +60,7 @@ class Bot(commands.Bot):
             exception = f"{type(e).__name__}: {e}"
             self.logger.error(f"Erro ao sincronizar os comandos: {exception}")
 
-        self.logger.info(f"Sincronizado {0} comando{'s' if 0 > 1 else ''}")
+        self.logger.info(f"Sincronizado {0} comando{'s' if 0 > 1 or 0 == 0 else ''}")
         self.logger.info(f"Versão discord.py: {discord.__version__}")
         self.logger.info(f"Versão python: {platform.python_version()}")
         self.logger.info(
