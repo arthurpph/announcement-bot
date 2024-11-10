@@ -96,7 +96,10 @@ class Commands(commands.Cog):
                                                    description=f"Anúncio enviado para {counter} usuários")
                                     embed2.set_footer(
                                         text=f"Essa mensagem é atualizada durante a execução do comando\n\nAguardando {j} segundos para continuar a execução")
-                                    await response_message.edit(embed=embed2)
+                                    try:
+                                        await response_message.edit(embed=embed2)
+                                    except Exception:
+                                        print("Erro ao editar mensagem de atualização, tentando novamente depois do próximo delay...")
 
                                     seconds_counter = 0
 
@@ -106,9 +109,15 @@ class Commands(commands.Cog):
                                         if stop:
                                             raise Break
 
-                                await response_message.edit(embed=embed)
+                                try:
+                                    await response_message.edit(embed=embed)
+                                except Exception:
+                                    print("Erro ao editar mensagem de atualização, tentando novamente depois do próximo delay...")
                             elif i % 10 == 0:
-                                await response_message.edit(embed=embed)
+                                try:
+                                    await response_message.edit(embed=embed)
+                                except Exception:
+                                    print("Erro ao editar mensagem de atualização, tentando novamente depois do próximo delay...")
 
                         if member == ctx.author or (member != self.bot.user and (
                                 member.status == Status.online or member.status == Status.idle or member.status == Status.dnd or member.status == Status.do_not_disturb)):
